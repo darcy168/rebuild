@@ -148,7 +148,7 @@
                         <format>html</format>
                         <format>xml</format>
                     </formats>
-                    <check />
+                    <check/>
                 </configuration>
             </plugin>
         </plugins>
@@ -420,7 +420,7 @@
         <dependency>
             <groupId>com.github.oshi</groupId>
             <artifactId>oshi-core</artifactId>
-            <version>5.7.0</version>
+            <version>5.8.2</version>
         </dependency>
     </dependencies>
 </project>
