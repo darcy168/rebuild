@@ -148,7 +148,7 @@
                         <format>html</format>
                         <format>xml</format>
                     </formats>
-                    <check />
+                    <check/>
                 </configuration>
             </plugin>
         </plugins>
@@ -228,7 +228,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context-support</artifactId>
-            <version>5.3.3</version>
+            <version>5.3.12</version>
         </dependency>
 
         <dependency>
