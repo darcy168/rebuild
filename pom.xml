@@ -148,7 +148,7 @@
                         <format>html</format>
                         <format>xml</format>
                     </formats>
-                    <check />
+                    <check/>
                 </configuration>
             </plugin>
         </plugins>
@@ -410,7 +410,7 @@
         <dependency>
             <groupId>org.redisson</groupId>
             <artifactId>redisson</artifactId>
-            <version>3.15.0</version>
+            <version>3.16.2</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
