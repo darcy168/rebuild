@@ -148,7 +148,7 @@
                         <format>html</format>
                         <format>xml</format>
                     </formats>
-                    <check />
+                    <check/>
                 </configuration>
             </plugin>
         </plugins>
@@ -339,7 +339,7 @@
         <dependency>
             <groupId>com.squareup.okhttp3</groupId>
             <artifactId>okhttp</artifactId>
-            <version>4.9.1</version>
+            <version>4.12.0</version>
         </dependency>
         <dependency>
             <groupId>com.alibaba</groupId>
