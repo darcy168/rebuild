@@ -148,7 +148,7 @@
                         <format>html</format>
                         <format>xml</format>
                     </formats>
-                    <check />
+                    <check/>
                 </configuration>
             </plugin>
         </plugins>
@@ -344,7 +344,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>easyexcel</artifactId>
-            <version>2.2.8</version>
+            <version>3.1.0</version>
             <exclusions>
                 <exclusion>
                     <artifactId>ehcache</artifactId>
@@ -365,7 +365,7 @@
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
-            <version>4.1.2</version>
+            <version>5.4.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.poi</groupId>
